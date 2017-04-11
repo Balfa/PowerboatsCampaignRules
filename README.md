@@ -66,7 +66,7 @@ A single bonus point is earned for each of the following:
 # Earn credits ("cr.")
 All players earn 3 credits for completing a race. In addition, players earn bonus credits for achieving the following:
 * Most hexes moved in a single turn (as above).
-* First player to cross the finish line.
+* Win the race.
 * First player to come within two hexes of a buoy. A bonus credit is earned for each buoy in the race. A player does not have to end their go within the distance, merely travel through any of those hexes.
 
 No player may earn more than five credits each race! Any subsequent credits earned by this player are lost and not earned by anybody else.

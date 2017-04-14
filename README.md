@@ -1,4 +1,4 @@
-# Power Boats Campaign Rules (v0.0.1)
+# Power Boats Campaign Rules (v0.0.2)
 
 # Introduction
 TODO
@@ -83,6 +83,7 @@ Between races, you can spend credits (or "cr.") to add upgrades to your boat. Yo
     * May spend two Nitro in one turn to go airborne for one hex during your movement. Ignore land, boats, etc.. This does not add to your movement this turn. **You cannot jump over buoys**.
 * Anchor (2 cr.)
     * May be spent when turning to turn an additional 60 degrees, so your boat faces two hex edges away from where it began.
+        * After moving, for each die you have after the first, you lose one die **and** take one damage.
 
 ## Permanents
 * Ram (a.k.a. "The Bonta") (2 cr.)
@@ -94,5 +95,5 @@ Between races, you can spend credits (or "cr.") to add upgrades to your boat. Yo
     * Instead of turning before you move, you may turn after moving forward a single hex, then complete the rest of your movement.
 * Bow thrusters (2 cr.)
     * Instead of turning, before moving, spend one Nitro (instead of any other use of Nitro this go!) to slide your boat sideways into the forward-left or forward-right hex
-* Remote pilot (4 cr.)
+* Remote pilot (3 cr.)
     * Your pilot sits comfortably on a tower overlooking the race. His will for self-preservation is still intact, but his fate is no longer tied to that of his boat. You may now choose to ignore the rules about avoiding collisions when possible. However because your pilot's feedback isn't as immediate as others', you are slow off the start line. You don't move on the first round of the race, however you may still roll and keep the result, and add/remove/keep dice on your second go.
